@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "38128753029",
+    "project_id": "native-8928b",
+    "storage_bucket": "native-8928b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38128753029:android:e2e36d0a158afe5ea74cec",
+        "android_client_info": {
+          "package_name": "native.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38128753029-ehupdnjsqqrsdml3pkck7lid7s81elhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIGIPxdsV8kJhK6Q5Q821vUqo3MInBIw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38128753029-ehupdnjsqqrsdml3pkck7lid7s81elhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38128753029-b0778v7mvv4n0025a7vltf3g9ss7ch10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "native.social"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
